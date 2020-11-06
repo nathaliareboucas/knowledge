@@ -4,6 +4,7 @@ module.exports = {
 		database: 'knowledge',
 		user: 'postgres',
 		password: 'docker',
+		port: 5433,
 	},
 	poll: {
 		min: 2,
